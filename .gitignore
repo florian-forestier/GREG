@@ -1,4 +1,4 @@
 pkg/
-src/github.com/
+internal/github.com/
 greg
 greg.exe
